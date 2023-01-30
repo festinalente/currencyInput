@@ -1,0 +1,27 @@
+{
+  "name": "currency-input",
+  "version": "1.0.0",
+  "description": "Extends native input text element to accept currency in a minimally acceptable manner.",
+  "main": "currencyInputConstructor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/festinalente/currencyInput.git"
+  },
+  "keywords": [
+    "currency",
+    "input",
+    "ISO",
+    "formating",
+    "native",
+    "extension"
+  ],
+  "author": "Tomás Eduardo Swift-Metcalfe",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/festinalente/currencyInput/issues"
+  },
+  "homepage": "https://github.com/festinalente/currencyInput#readme"
+}
