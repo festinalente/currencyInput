@@ -1,5 +1,5 @@
 {
-  "name": "currency-input",
+  "name": "native-currency-input",
   "version": "1.0.0",
   "description": "Extends native input text element to accept currency in a minimally acceptable manner.",
   "main": "currencyInputConstructor.js",
