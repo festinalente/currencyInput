@@ -2,7 +2,7 @@
  * Currency input.
  * @class
  * @param {HTMLelement} input element to enter value.
- * @param {sting} ISO currency code e.g. EUR
+ * @param {string} ISO currency code e.g. EUR
  * @summary Displays a currency correctly.
  * @description Formats input as currency, return an interger. 
  * Desired currency is passed as an attribute followed by the ISO code.
@@ -106,7 +106,6 @@
     });
   }
   
-
   get value() { return this.value_; }
 }
 
