@@ -1,4 +1,4 @@
-currency-input {
+form input, form currency-input {
   writing-mode: horizontal-tb !important;
   text-rendering: auto;
   color: fieldtext;
@@ -18,11 +18,7 @@ currency-input {
   padding: 1px 2px;
   border-width: 2px;
   border-style: inset;
-  border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
-  border-image: initial;  
+  border-color: -internal-light-dark(#767676, #858585);
+  border-image: initial;
   caret-color: transparent;
-}
-
-input[type="submit"] {
-  cursor: pointer;
 }
